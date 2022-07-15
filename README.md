@@ -4,7 +4,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Gaitolini/Gaitolini/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/gaitolini/gaitolini/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
