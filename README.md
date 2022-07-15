@@ -25,6 +25,7 @@
 ###
 
 <div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" height="44" width="60" alt="delphi logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="44" width="60" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="44" width="60" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="44" width="60" alt="azure logo"  />
