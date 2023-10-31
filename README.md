@@ -1,10 +1,9 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co/xMCHbX6/Git-Gaitolini.jpg"  />
+<!--   <img height="300" src="https://i.ibb.co/xMCHbX6/Git-Gaitolini.jpg"  /> -->
+  <img height="300" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47oaxqwzqof9qes5n9j3agmq9p6kl3ax81a0hyrtl6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/gaitolini/gaitolini/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
