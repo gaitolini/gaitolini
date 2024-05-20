@@ -18,6 +18,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="42" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="59" height="42" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="59" height="42" alt="medium logo"  />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="59" height="42" alt="GO"/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="59" height="42" alt="stackoverflow logo"  />
 </div>
 
