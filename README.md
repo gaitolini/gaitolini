@@ -50,11 +50,11 @@
 
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" height="44" width="44" alt="delphi logo"  />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="59" height="42" alt="GO"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" width="60" alt="javascript logo"  />
   <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" height="44" width="60" alt="spressif logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" width="60" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="44" width="60" alt="arduino logo"  />
-  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="59" height="42" alt="GO"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="44" width="60" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="44" width="60" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" width="60" alt="vscode logo"  />
@@ -77,10 +77,17 @@
 
 ###
 
+<div style="color: white;" align="center">
+  <h3>Convidado Home Assistant</h2>
+    <label for="login">Login: <span style="color: white;">guest</span></label><br>
+    <label for="password">Password: <span style="color: white;">helloworld</span></label><br>
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&username=Gaitolini" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Gaitolini" height="150" alt="languages graph"  />
 </div>
+<br>
 
 ###
 Profile Readme Generator
