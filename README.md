@@ -41,7 +41,7 @@
   <a href="https://stackoverflow.com/users/3979991/anderson-gaitolini" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="59" height="42" alt="stackoverflow logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/3979991/anderson-gaitolini" target="_blank">
+  <a href="https://gaitolini.com.br" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/4/49/Home_Assistant_logo_%282023%29.svg" width="59" height="42" alt="stackoverflow logo"  />
   </a>
 </div>
