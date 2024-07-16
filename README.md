@@ -16,11 +16,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="59" height="42" alt="twitter logo"  />
   </a>
           
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="59" height="42" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="59" height="42" alt="youtube logo"  />
+  <a href="(https://discord.gg/AYdzk9kbhy)" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="59" height="42" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@gaitolini2009" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="59" height="42" alt="youtube logo"  />
+  </a>
+  <a href="wa.link/ru0irj" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="59" height="42" alt="whatsapp logo"  />
+  </a>
+  <a href="https:///" target="_blank">
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="59" height="42" alt="telegram logo"  />
-  <img href="https://api.whatsapp.com/send?phone=+5547989164267&text=Ol%C3%A1,%20te%20achei%20no%20github"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="59" height="42" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="42" alt="gmail logo"  />
+  <a href="mailto:seuemail@gmail.com?subject=Entrando%20em%20contato%20através%20do%20Github&body=Olá,%20estou%20entrando%20em%20contato%20através%20do%20link%20em%20seu%20github.">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="42" alt="gmail logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="42" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="59" height="42" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="59" height="42" alt="medium logo"  />
