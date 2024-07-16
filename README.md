@@ -25,28 +25,33 @@
   <a href="https://www.wa.link/ru0irj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="59" height="42" alt="whatsapp logo"  />
   </a>
-  <a href="https:///" target="_blank">
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="59" height="42" alt="telegram logo"  />
   <a href="mailto:seuemail@gmail.com?subject=Entrando%20em%20contato%20através%20do%20Github&body=Olá,%20estou%20entrando%20em%20contato%20através%20do%20link%20em%20seu%20github.">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="42" alt="gmail logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="42" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="59" height="42" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="59" height="42" alt="medium logo"  />
-  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="59" height="42" alt="GO"/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="59" height="42" alt="stackoverflow logo"  />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" height="44" width="44" alt="delphi logo"  />
-  <a href="https://github.com/gaitolini" target="_blank">
-    <!-- A tag <img> apenas incorpora a imagem -->
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" width="60" alt="Logo do GitHub" />
-   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="59" height="42" alt="telegram logo"  />
+  <a href="https://www.instagram.com/gaitolini/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="42" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/gaitolini" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="59" height="42" alt="facebook logo"  />
+  </a>
+  <a href="https://medium.com/@gaitolini" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="59" height="42" alt="medium logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/3979991/anderson-gaitolini" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="59" height="42" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/3979991/anderson-gaitolini" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/49/Home_Assistant_logo_%282023%29.svg" width="59" height="42" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" height="44" width="44" alt="delphi logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="44" width="60" alt="arduino logo"  />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="59" height="42" alt="GO"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="44" width="60" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="44" width="60" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" width="60" alt="vscode logo"  />
@@ -61,7 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="44" width="60" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" width="60" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="44" width="60" alt="bitbucket logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" width="60" alt="github logo"  />
 </div>
 
 ###
