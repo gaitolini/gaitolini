@@ -1,93 +1,94 @@
 <div align="center">
-<!--   <img height="300" src="https://i.ibb.co/xMCHbX6/Git-Gaitolini.jpg"  /> -->
-  <img height="300" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47oaxqwzqof9qes5n9j3agmq9p6kl3ax81a0hyrtl6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+<!--   <img height="300" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47oaxqwzqof9qes5n9j3agmq9p6kl3ax81a0hyrtl6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF animado de tecnologia" /> -->
 
-###
+![aws-certified-cloud-practitioner600x600](https://github.com/user-attachments/assets/812cccd0-8fbc-46c6-94b3-deb8060b4e61)
 
-###
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andersongaitolini/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="42" alt="linkedin logo"  />
+    <img src="https://simpleicons.org/icons/linkedin.svg" width="50" height="40" alt="LinkedIn logo" title="LinkedIn de Anderson Gaitolini" />
   </a>
-  
   <a href="https://x.com/gaitolini/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="59" height="42" alt="twitter logo"  />
-  </a>
-          
-  <a href="(https://discord.gg/AYdzk9kbhy)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="59" height="42" alt="discord logo"  />
+    <img src="https://simpleicons.org/icons/x.svg" width="50" height="40" alt="X logo" title="X de Anderson Gaitolini" />
   </a>
   <a href="https://www.youtube.com/@gaitolini2009" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="59" height="42" alt="youtube logo"  />
+    <img src="https://simpleicons.org/icons/youtube.svg" width="50" height="40" alt="YouTube logo" title="YouTube de Anderson Gaitolini" />
   </a>
   <a href="https://www.wa.link/ru0irj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="59" height="42" alt="whatsapp logo"  />
+    <img src="https://simpleicons.org/icons/whatsapp.svg" width="50" height="40" alt="WhatsApp logo" title="WhatsApp de Anderson Gaitolini" />
   </a>
   <a href="mailto:seuemail@gmail.com?subject=Entrando%20em%20contato%20através%20do%20Github&body=Olá,%20estou%20entrando%20em%20contato%20através%20do%20link%20em%20seu%20github.">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="42" alt="gmail logo"  />
+    <img src="https://simpleicons.org/icons/gmail.svg" width="50" height="40" alt="Gmail logo" title="Enviar e-mail para Anderson Gaitolini" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="59" height="42" alt="telegram logo"  />
   <a href="https://www.instagram.com/gaitolini/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="42" alt="instagram logo"  />
+    <img src="https://simpleicons.org/icons/instagram.svg" width="50" height="40" alt="Instagram logo" title="Instagram de Anderson Gaitolini" />
   </a>
   <a href="https://www.facebook.com/gaitolini" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="59" height="42" alt="facebook logo"  />
+    <img src="https://simpleicons.org/icons/facebook.svg" width="50" height="40" alt="Facebook logo" title="Facebook de Anderson Gaitolini" />
   </a>
   <a href="https://medium.com/@gaitolini" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="59" height="42" alt="medium logo"  />
+    <img src="https://simpleicons.org/icons/medium.svg" width="50" height="40" alt="Medium logo" title="Medium de Anderson Gaitolini" />
   </a>
   <a href="https://stackoverflow.com/users/3979991/anderson-gaitolini" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="59" height="42" alt="stackoverflow logo"  />
+    <img src="https://simpleicons.org/icons/stackoverflow.svg" width="50" height="40" alt="Stack Overflow logo" title="Stack Overflow de Anderson Gaitolini" />
+  </a>
+  <a href="https://www.credly.com/users/anderson-gaitolini/badges" target="_blank">
+    <img src="https://simpleicons.org/icons/credly.svg" width="50" height="40" alt="Credly logo" title="Credly de Anderson Gaitolini" />
   </a>
   <a href="https://gaitolini.com.br" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/4/49/Home_Assistant_logo_%282023%29.svg" width="59" height="42" alt="stackoverflow logo"  />
+    <img src="https://simpleicons.org/icons/internetarchive.svg" width="50" height="40" alt="Website logo" title="Site pessoal de Anderson Gaitolini" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" height="44" width="44" alt="delphi logo"  />
-  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="59" height="42" alt="GO"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" width="60" alt="javascript logo"  />
-  <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" height="44" width="60" alt="spressif logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" width="60" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="44" width="60" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="44" width="60" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="44" width="60" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" width="60" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" width="60" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="44" width="60" alt="oracle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="44" width="60" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" width="60" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="44" width="60" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="44" width="60" alt="dot-net logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="44" width="60" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" width="60" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="44" width="60" alt="bitbucket logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="50" height="40" alt="Delphi logo" title="Delphi" />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="50" height="40" alt="Go logo" title="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="40" alt="JavaScript logo" title="JavaScript" />
+  <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" width="50" height="40" alt="Espressif logo" title="Espressif" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="40" alt="HTML5 logo" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50" height="40" alt="Arduino logo" title="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="40" alt="C logo" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="40" alt="Azure logo" title="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="40" alt="VS Code logo" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="40" alt="Python logo" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50" height="40" alt="Oracle logo" title="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="40" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="40" alt="TypeScript logo" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="50" height="40" alt="jQuery logo" title="jQuery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="50" height="40" alt=".NET logo" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="50" height="40" alt="Android logo" title="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="40" alt="Git logo" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="50" height="40" alt="Bitbucket logo" title="Bitbucket" />
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Gaitolini/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Gaitolini/count.svg" alt="Contador de visitas" />
 </div>
 
-###
+---
 
-<div style="color: white;" align="center">
-  <h3>Convidado Home Assistant</h2>
-    <label for="login">Login: <span style="color: white;">guest</span></label><br>
-    <label for="password">Password: <span style="color: white;">helloworld</span></label><br>
-</div>
+## Convidado Home Assistant
+- **Login**: guest
+- **Password**: helloworld
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&username=Gaitolini" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Gaitolini" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&username=Gaitolini" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Gaitolini" height="150" alt="Linguagens mais usadas" />
 </div>
-<br>
 
-###
-Profile Readme Generator
+---
+
+## Credly Badge
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a41dca5-6983-464e-b940-10d063661e16" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+---
+
+*Gerado com inspiração no [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator)*
