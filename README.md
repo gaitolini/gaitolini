@@ -1,4 +1,5 @@
 <h1 align="center">CLF-C02 - AWS Certified Cloud Practitioner</h1> 
+<h2 align="center">🚀 Bem-vindo ao meu perfil GitHub!</h2>
 <div align="center">
   <a href="https://www.credly.com/badges/0a41dca5-6983-464e-b940-10d063661e16/public_url" target="_blank">
     <img 
@@ -55,11 +56,22 @@
   </a>
 </div>
 
+<div align="center">
+  <h2  align="center">Acesse meu web-site 👇🏼👇🏼👇🏼</h2>
+  <a href="https://www.anderson.gaitolini" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/d8571029-a003-4597-bca1-32e12788fbde" 
+      alt="My Homepage" 
+      width="150"
+    >
+  </a>
+</div>
 ---
-
+<h1 align="center">Stacks de Desenvolvimento</h1> 
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="50" height="40" alt="Delphi logo" title="Delphi" />
   <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="50" height="40" alt="Go logo" title="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="40" alt="AWS" title="AWS"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="40" alt="JavaScript logo" title="JavaScript" />
   <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" width="50" height="40" alt="Espressif logo" title="Espressif" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="40" alt="HTML5 logo" title="HTML5" />
@@ -78,6 +90,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="50" height="40" alt="Bitbucket logo" title="Bitbucket" />
 </div>
 
+--- 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="50" height="40" title="Netlify"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="50" height="40" title="Debian Linux"/>        
+          
+</div>
 ---
 
 <div align="center">
@@ -86,6 +104,7 @@
 
 ---
 ## Experimente! Home Assistant
+### Click na logo!
 <div align="left">
   <a href="https://ha.gaitolini.com.br" target="_blank">
     <img 
@@ -107,6 +126,3 @@
 </div>
 
 ---
-
-
-*Gerado com inspiração no [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator)*
