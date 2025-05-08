@@ -1,6 +1,22 @@
-
-[![AWS Certified Cloud Practitioner](https://github.com/user-attachments/assets/812cccd0-8fbc-46c6-94b3-deb8060b4e61)](https://www.credly.com/badges/0a41dca5-6983-464e-b940-10d063661e16/public_url)
-
+<h1 align="center">CLF-C02 - AWS Certified Cloud Practitioner</h1> 
+<div align="center">
+  <a href="https://www.credly.com/badges/0a41dca5-6983-464e-b940-10d063661e16/public_url" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/812cccd0-8fbc-46c6-94b3-deb8060b4e61" 
+      alt="Veja minha badge oficial no credly = Click aqui!" 
+      width="150"
+    >
+  </a>
+  
+  <a href="https://www.credly.com/badges/358bb56a-2611-4fc0-9bff-3b245ef47231/public_url" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/acf515c9-bd1a-4763-bbca-93b7abcf5357" 
+      alt="AWS re/Start Graduate" 
+      width="150"
+    >
+  </a>
+</div>  
+          
 ---
 
 <div align="center">
@@ -42,9 +58,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/gaitolini?tab=repositories&q=&type=&language=pascal&sort=" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="50" height="40" alt="Delphi logo" title="Acessa meus projetos Delphi.." />
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="50" height="40" alt="Delphi logo" title="Delphi" />
   <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="50" height="40" alt="Go logo" title="Go" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="40" alt="JavaScript logo" title="JavaScript" />
   <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" width="50" height="40" alt="Espressif logo" title="Espressif" />
@@ -71,11 +85,20 @@
 </div>
 
 ---
+## Experimente! Home Assistant
+<div align="left">
+  <a href="https://ha.gaitolini.com.br" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/fa2a0d57-050d-4dd2-a6c7-9423df908e7a" 
+      alt="Home Assistant" 
+      width="50"
+    >
+  </a>
 
-## Convidado Home Assistant
 - **Login**: guest
 - **Password**: helloworld
 
+</div>
 ---
 
 <div align="center">
@@ -85,10 +108,5 @@
 
 ---
 
-## Credly Badge
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a41dca5-6983-464e-b940-10d063661e16" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
----
 
 *Gerado com inspiração no [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator)*
