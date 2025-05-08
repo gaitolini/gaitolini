@@ -1,13 +1,11 @@
-<div align="center">
-<!--   <img height="300" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47oaxqwzqof9qes5n9j3agmq9p6kl3ax81a0hyrtl6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF animado de tecnologia" /> -->
 
-![aws-certified-cloud-practitioner600x600](https://github.com/user-attachments/assets/812cccd0-8fbc-46c6-94b3-deb8060b4e61)
+[![AWS Certified Cloud Practitioner](https://github.com/user-attachments/assets/812cccd0-8fbc-46c6-94b3-deb8060b4e61)](https://www.credly.com/badges/0a41dca5-6983-464e-b940-10d063661e16/public_url)
 
 ---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andersongaitolini/" target="_blank">
-    <img src="https://simpleicons.org/icons/linkedin.svg" width="50" height="40" alt="LinkedIn logo" title="LinkedIn de Anderson Gaitolini" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="40" />          
   </a>
   <a href="https://x.com/gaitolini/" target="_blank">
     <img src="https://simpleicons.org/icons/x.svg" width="50" height="40" alt="X logo" title="X de Anderson Gaitolini" />
