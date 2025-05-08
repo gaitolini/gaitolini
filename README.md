@@ -58,7 +58,7 @@
 
 <div align="center">
   <h2  align="center">Acesse meu web-site 👇🏼👇🏼👇🏼</h2>
-  <a href="[anderson.gaitolini](https://anderson.gaitolini.com.br/)" target="_blank">
+  <a href="https://anderson.gaitolini.com.br/" target="_blank">
     <img 
       src="https://github.com/user-attachments/assets/d8571029-a003-4597-bca1-32e12788fbde" 
       alt="My Homepage" 
