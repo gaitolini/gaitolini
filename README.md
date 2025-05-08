@@ -42,7 +42,9 @@
 ---
 
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="50" height="40" alt="Delphi logo" title="Delphi" />
+  <a href="https://github.com/gaitolini?tab=repositories&q=&type=&language=pascal&sort=" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="50" height="40" alt="Delphi logo" title="Acessa meus projetos Delphi.." />
+  </a>
   <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="50" height="40" alt="Go logo" title="Go" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="40" alt="JavaScript logo" title="JavaScript" />
   <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" width="50" height="40" alt="Espressif logo" title="Espressif" />
